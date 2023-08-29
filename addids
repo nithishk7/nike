@@ -1,0 +1,7 @@
+welcome to github NITHISH
+    git clone link
+    cd 
+git add filename
+staging to local
+    git commit -m " "
+    git push origin main
